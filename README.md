@@ -1,8 +1,8 @@
 ## Luckshihaa Krishnan - Projects
 
 #### Project #1 : https://web422-assignment1-htoc.onrender.com/
-###### Possible Routes:
-  GET:
+#### Possible Routes:
+  GET:**
     - /
     - /api/listings
     - /api/listings/:id
