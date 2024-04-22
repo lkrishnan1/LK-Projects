@@ -4,11 +4,11 @@
 #### Possible Routes:
   GET:  
     &nbsp; &nbsp; &nbsp; - /  
-    - /api/listings  
-    - /api/listings/:id  
+    &nbsp; &nbsp; &nbsp; - /api/listings  
+    &nbsp; &nbsp; &nbsp; - /api/listings/:id  
   POST:  
-    - /api/listings  
+    &nbsp; &nbsp; &nbsp; - /api/listings  
   PUT:  
-    - /api/listings/:id  
+    &nbsp; &nbsp; &nbsp; - /api/listings/:id  
   DELETE:  
-    - /api/listings/:id  
+    &nbsp; &nbsp; &nbsp; - /api/listings/:id  
