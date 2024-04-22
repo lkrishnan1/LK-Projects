@@ -6,9 +6,9 @@
     - /  
     - /api/listings  
     - /api/listings/:id  
-  POST:
-    - /api/listings
-  PUT:
-    - /api/listings/:id
-  DELETE:
-    - /api/listings/:id
+  POST:  
+    - /api/listings  
+  PUT:  
+    - /api/listings/:id  
+  DELETE:  
+    - /api/listings/:id  
