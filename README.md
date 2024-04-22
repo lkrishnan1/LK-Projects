@@ -2,7 +2,7 @@
 
 #### Project #1 : https://web422-assignment1-htoc.onrender.com/
 #### Possible Routes:
-  GET:**
+  **GET:**
     - /
     - /api/listings
     - /api/listings/:id
