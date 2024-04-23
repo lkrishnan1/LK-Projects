@@ -1,8 +1,8 @@
 # Luckshihaa Krishnan - Projects
 
 ### Project #1 : https://weary-tan-wetsuit.cyclic.app/  
- &nbsp; &nbsp; &nbsp; username : admin
-  &nbsp; &nbsp; &nbsp; password : password  
+ &nbsp; &nbsp; &nbsp; username : admin  
+ &nbsp; &nbsp; &nbsp; password : password  
   
 ### Project #2 : https://web422-assignment1-htoc.onrender.com/
 #### Possible Routes:  
